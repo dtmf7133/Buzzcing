@@ -26,11 +26,11 @@ As you are going to run Buzzcing in the PHP process context, using a limited web
 
 Song file nomenclature: "Company_Name~Listing Title.mp3"
 
-You can access your avatar by http://yourdomain.com/<your_avatar>. Login with the password for the admin view. Drag-n-drop all your resources in the browser window.<br>
+You can access your avatar by http://yoursitename.xyz/<your_avatar>. Login with the password for the admin view. Drag-n-drop all your resources in the browser window.<br>
 
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
 
-To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
+To help please donate by clicking <a href="https://gaox.eu/l/dona1">https://gaox.eu/l/dona1</a> and filling the form.  
 
 ### Public view:
 
@@ -40,5 +40,5 @@ To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox
 
 ![Buzzcing in action #2](/Public/static/res/screenshot2.png)<br>
 
-Feedback: <a href="mailto:code@gaox.io" style="color:#e6d236;">code@gaox.io</a>
+Feedback: <a href="mailto:code@gaox.eu" style="color:#e6d236;">code@gaox.eu</a>
 
